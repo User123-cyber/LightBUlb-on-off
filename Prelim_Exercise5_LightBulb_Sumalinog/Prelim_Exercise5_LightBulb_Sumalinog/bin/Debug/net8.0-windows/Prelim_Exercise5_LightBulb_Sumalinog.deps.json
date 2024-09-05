@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prelim_Exercise5_LightBulb_Sumalinog/1.0.0": {
+        "runtime": {
+          "Prelim_Exercise5_LightBulb_Sumalinog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prelim_Exercise5_LightBulb_Sumalinog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
